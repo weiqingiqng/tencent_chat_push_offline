@@ -1,0 +1,6 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Hydra.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ImSDK_Plus.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/flutter_apns_only.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/path_provider_foundation.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/plain_notification_token_for_us.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/tencent_chat_push_for_china.framework

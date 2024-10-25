@@ -1,0 +1,38 @@
+{
+  "name": "tencent_cloud_chat_sdk",
+  "version": "7.0.0",
+  "summary": "Tencent Cloud Chat SDK For Flutter",
+  "description": "Tencent Cloud Chat SDK For Flutter",
+  "homepage": "https://trtc.io/products/chat",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Tencent": "xingchenhe@tencent.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "TXIMSDK_Plus_iOS": [
+      ">= 7.9.5680"
+    ],
+    "HydraAsync": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES",
+    "VALID_ARCHS[sdk=iphonesimulator*]": "x86_64"
+  },
+  "swift_versions": "5.0",
+  "static_framework": true,
+  "swift_version": "5.0"
+}

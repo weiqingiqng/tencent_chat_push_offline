@@ -1,0 +1,58 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_apns_only (0.0.1):
+    - Flutter
+  - HydraAsync (2.0.6)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - plain_notification_token_for_us (0.0.1):
+    - Flutter
+  - tencent_chat_push_for_china (0.0.1):
+    - Flutter
+  - tencent_cloud_chat_sdk (7.0.0):
+    - Flutter
+    - HydraAsync
+    - TXIMSDK_Plus_iOS (>= 7.9.5680)
+  - TXIMSDK_Plus_iOS (8.2.6325)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_apns_only (from `.symlinks/plugins/flutter_apns_only/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - plain_notification_token_for_us (from `.symlinks/plugins/plain_notification_token_for_us/ios`)
+  - tencent_chat_push_for_china (from `.symlinks/plugins/tencent_chat_push_for_china/ios`)
+  - tencent_cloud_chat_sdk (from `.symlinks/plugins/tencent_cloud_chat_sdk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - HydraAsync
+    - TXIMSDK_Plus_iOS
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_apns_only:
+    :path: ".symlinks/plugins/flutter_apns_only/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  plain_notification_token_for_us:
+    :path: ".symlinks/plugins/plain_notification_token_for_us/ios"
+  tencent_chat_push_for_china:
+    :path: ".symlinks/plugins/tencent_chat_push_for_china/ios"
+  tencent_cloud_chat_sdk:
+    :path: ".symlinks/plugins/tencent_cloud_chat_sdk/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_apns_only: 3d91c0ca9dbef4439874858590909a19f8ed06a4
+  HydraAsync: 8d589bd725b0224f899afafc9a396327405f8063
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  plain_notification_token_for_us: c804c7a9f79af55980cec08457cb8cdf73200db7
+  tencent_chat_push_for_china: aa983a4716949ae4062c106204e2dc07d34d9f3b
+  tencent_cloud_chat_sdk: 692e2c6b3024086a62a9fbb047441f17f122dab4
+  TXIMSDK_Plus_iOS: 00b784d7ee473f6e7b998c29f0078dc72474c698
+
+PODFILE CHECKSUM: c4c93c5f6502fe2754f48404d3594bf779584011
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,1 @@
+ /Users/tg_weiqingqing/Desktop/tencent_chat_push_offline/example/.dart_tool/flutter_build/45c3fee3179e961e1e0a0f0dc0e47f4d/native_assets.yaml: 

@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh
+${BUILT_PRODUCTS_DIR}/HydraAsync/Hydra.framework
+${PODS_ROOT}/TXIMSDK_Plus_iOS/ImSDK_Plus.framework
+${BUILT_PRODUCTS_DIR}/flutter_apns_only/flutter_apns_only.framework
+${BUILT_PRODUCTS_DIR}/path_provider_foundation/path_provider_foundation.framework
+${BUILT_PRODUCTS_DIR}/plain_notification_token_for_us/plain_notification_token_for_us.framework
+${BUILT_PRODUCTS_DIR}/tencent_chat_push_for_china/tencent_chat_push_for_china.framework
