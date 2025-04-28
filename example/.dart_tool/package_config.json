@@ -392,10 +392,10 @@
       "languageVersion": "2.15"
     }
   ],
-  "generated": "2024-10-25T05:25:09.455147Z",
+  "generated": "2025-04-28T07:51:50.358360Z",
   "generator": "pub",
-  "generatorVersion": "3.5.3",
+  "generatorVersion": "3.5.4",
   "flutterRoot": "file:///Users/tg_weiqingqing/flutter",
-  "flutterVersion": "3.24.3",
+  "flutterVersion": "3.24.4",
   "pubCache": "file:///Users/tg_weiqingqing/.pub-cache"
 }
