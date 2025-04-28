@@ -63,6 +63,13 @@
             android:exported="false"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <activity
+            android:name="com.xiaomi.mipush.sdk.NotificationClickedActivity"
+            android:exported="true"
+            android:theme="@android:style/Theme.Translucent">
+        </activity>
+
         <receiver
             android:name="com.xiaomi.push.service.receivers.PingReceiver"
             android:exported="false"
