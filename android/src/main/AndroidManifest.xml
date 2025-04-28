@@ -67,7 +67,7 @@
         <activity
             android:name="com.xiaomi.mipush.sdk.NotificationClickedActivity"
             android:exported="true"
-            android:theme="@android:style/Theme.Translucent">
+            android:theme="@android:style/Theme.Translucent.NoTitleBar">
         </activity>
 
         <receiver
