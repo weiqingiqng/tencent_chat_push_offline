@@ -176,11 +176,12 @@ packages:
   huawei_push:
     dependency: transitive
     description:
-      name: huawei_push
-      sha256: d9bdbc62d5b6a07fe2bff92790682c77ffcc8b56bafba8c12700d2b4b0e30a70
-      url: "https://pub.flutter-io.cn"
-    source: hosted
-    version: "6.13.0+300"
+      path: flutter-hms-push
+      ref: HEAD
+      resolved-ref: a86fe8cadc4afbad5e2be9eddc44e41d314db335
+      url: "https://github.com/crasowas/hms-flutter-plugin.git"
+    source: git
+    version: "6.12.0+302"
   js:
     dependency: transitive
     description:
