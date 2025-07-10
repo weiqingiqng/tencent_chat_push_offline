@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_apns_only: ^1.6.0
-  huawei_push: ^6.5.0+300
+  huawei_push: ^6.13.0+300
   plain_notification_token_for_us: ^1.0.0+1
   tencent_im_base: ^3.0.0
 
